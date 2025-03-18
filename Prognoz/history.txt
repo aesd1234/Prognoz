@@ -1,0 +1,10 @@
+[2025-01-13 12:29:45] City: Opole, Temperature: -0.5°C, Wind Speed: 3.8 m/s, Direction: N
+[2025-01-13 12:30:17] Coordinates: 50.666698, 17.933300, Temperature: -0.4°C, Wind Speed: 2.9 m/s, Direction: N
+[2025-01-13 12:32:40] Coordinates: 50.672100, 17.925301, Temperature: -0.4°C, Wind Speed: 2.9 m/s, Direction: N
+[2025-01-13 12:41:36] Coordinates: 50.672100, 17.925301, Temperature: -0.5°C, Wind Speed: 2.9 m/s, Direction: N
+[2025-01-21 19:26:23] City: Kyiv, Temperature: -0.2°C, Wind Speed: 0.5 m/s, Direction: W
+[2025-01-21 19:26:40] City: Energodar, Temperature: 1.9°C, Wind Speed: 4.5 m/s, Direction: ESE
+[2025-01-21 19:27:00] City: Odesa, Temperature: 5.1°C, Wind Speed: 4.9 m/s, Direction: ESE
+[2025-01-21 19:27:35] Coordinates: 50.672100, 17.925301, Temperature: 0.7°C, Wind Speed: 1.3 m/s, Direction: W
+[2025-01-27 22:07:55] Coordinates: 50.672100, 17.925301, Temperature: 7.9°C, Wind Speed: 7.1 m/s, Direction: S
+[2025-01-27 22:10:13] City: Opole, Temperature: 7.8°C, Wind Speed: 6.6 m/s, Direction: S

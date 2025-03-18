@@ -1,0 +1,13 @@
+﻿  prognoz.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\wtypesbase.h(395,9): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'prognoz.cpp')
+  
+C:\Users\aesdm\source\repos\Prognoz\Prognoz\prognoz.cpp(305,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aesdm\source\repos\Prognoz\Prognoz\prognoz.cpp(305,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aesdm\source\repos\Prognoz\Prognoz\prognoz.cpp(305,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aesdm\source\repos\Prognoz\Prognoz\prognoz.cpp(443,160): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aesdm\source\repos\Prognoz\Prognoz\prognoz.cpp(443,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aesdm\source\repos\Prognoz\Prognoz\prognoz.cpp(443,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Prognoz.vcxproj -> C:\Users\aesdm\source\repos\Prognoz\x64\Debug\Prognoz.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
